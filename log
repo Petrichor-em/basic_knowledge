@@ -1,0 +1,660 @@
+-----------------------
+->
+->
+<-
+4	RED
+->
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+2 inserted.
+-----------------------
+->
+->
+->
+<-
+2	RED
+->
+<-
+<-
+4	BLACK
+->
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+7 inserted.
+-----------------------
+->
+->
+->
+<-
+2	RED
+->
+<-
+<-
+4	BLACK
+->
+->
+<-
+7	RED
+->
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case3 execute
+insert_case5 execute
+10 inserted.
+-----------------------
+->
+->
+->
+<-
+2	BLACK
+->
+<-
+<-
+4	RED
+->
+->
+<-
+7	BLACK
+->
+->
+<-
+10	RED
+->
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+1 inserted.
+-----------------------
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	RED
+->
+->
+<-
+7	BLACK
+->
+->
+<-
+10	RED
+->
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case5 execute
+rotate_right execute.
+insert_case6 execute
+rotate_left execute.
+9 inserted.
+-----------------------
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	RED
+->
+->
+->
+<-
+7	RED
+->
+<-
+<-
+9	BLACK
+->
+->
+<-
+10	RED
+->
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case5 execute
+5 inserted.
+-----------------------
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	BLACK
+->
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+<-
+<-
+9	RED
+->
+->
+<-
+10	BLACK
+->
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+17 inserted.
+-----------------------
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	BLACK
+->
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+<-
+<-
+9	RED
+->
+->
+<-
+10	BLACK
+->
+->
+<-
+17	RED
+->
+<-
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case5 execute
+insert_case6 execute
+rotate_left execute.
+20 inserted.
+-----------------------
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	BLACK
+->
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+<-
+<-
+9	RED
+->
+->
+->
+<-
+10	RED
+->
+<-
+<-
+17	BLACK
+->
+->
+<-
+20	RED
+->
+<-
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case5 execute
+insert_case6 execute
+rotate_left execute.
+insert_case5 execute
+39 inserted.
+-----------------------
+->
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	RED
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+<-
+<-
+<-
+9	BLACK
+->
+->
+->
+<-
+10	BLACK
+->
+<-
+<-
+17	RED
+->
+->
+<-
+20	BLACK
+->
+->
+<-
+39	RED
+->
+<-
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+8 inserted.
+-----------------------
+->
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	RED
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+->
+<-
+8	RED
+->
+<-
+<-
+<-
+<-
+9	BLACK
+->
+->
+->
+<-
+10	BLACK
+->
+<-
+<-
+17	RED
+->
+->
+<-
+20	BLACK
+->
+->
+<-
+39	RED
+->
+<-
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case5 execute
+rotate_right execute.
+insert_case6 execute
+rotate_left execute.
+24 inserted.
+-----------------------
+->
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	RED
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+->
+<-
+8	RED
+->
+<-
+<-
+<-
+<-
+9	BLACK
+->
+->
+->
+<-
+10	BLACK
+->
+<-
+<-
+17	RED
+->
+->
+->
+<-
+20	RED
+->
+<-
+<-
+24	BLACK
+->
+->
+<-
+39	RED
+->
+<-
+<-
+<-
+<-
+<-
+-----------------------
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case3 execute
+insert_case1 execute
+insert_case4 execute
+insert_case2 execute
+insert_case3 execute
+insert_case5 execute
+insert_case5 execute
+55 inserted.
+-----------------------
+->
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	BLACK
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+->
+<-
+8	RED
+->
+<-
+<-
+<-
+<-
+9	RED
+->
+->
+->
+<-
+10	BLACK
+->
+<-
+<-
+17	BLACK
+->
+->
+->
+<-
+20	BLACK
+->
+<-
+<-
+24	RED
+->
+->
+<-
+39	BLACK
+->
+->
+<-
+55	RED
+->
+<-
+<-
+<-
+<-
+<-
+<-
+-----------------------
+39 inserted.
+-----------------------
+->
+->
+->
+->
+->
+<-
+1	RED
+->
+<-
+<-
+2	BLACK
+->
+<-
+<-
+4	BLACK
+->
+->
+->
+<-
+5	RED
+->
+<-
+<-
+7	BLACK
+->
+->
+<-
+8	RED
+->
+<-
+<-
+<-
+<-
+9	RED
+->
+->
+->
+<-
+10	BLACK
+->
+<-
+<-
+17	BLACK
+->
+->
+->
+<-
+20	BLACK
+->
+<-
+<-
+24	RED
+->
+->
+<-
+39	BLACK
+->
+->
+<-
+55	RED
+->
+<-
+<-
+<-
+<-
+<-
+<-
+-----------------------
