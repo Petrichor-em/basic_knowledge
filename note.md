@@ -1,5 +1,5 @@
 **1**
-Every node is either red or black.
+Every node is either red or black.\n
 **2**
 All NIL nodes (figure 1) are considered black.
 **3**
